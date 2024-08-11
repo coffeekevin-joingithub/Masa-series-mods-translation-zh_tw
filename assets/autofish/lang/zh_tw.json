@@ -1,0 +1,73 @@
+{
+  "key.autofish.open_gui": "打開Autofish界面",
+  "options.autofish.title": "XPlus Autofish設定",
+
+  "options.autofish.toggle.on": "\u00A7a開",
+  "options.autofish.toggle.off": "\u00A7e關",
+
+  "options.autofish.enable.title": "啟用自動釣魚",
+  "options.autofish.enable.tooltip": "打開或關閉MOD功能",
+
+  "options.autofish.multirod.title": "啟用多個釣魚竿",
+  "options.autofish.multirod.tooltip_0": "順序使用多個釣魚竿",
+  "options.autofish.multirod.tooltip_1": "在目前釣魚竿損壞時",
+  "options.autofish.multirod.tooltip_2": "自動切換到下一個釣魚竿",
+
+  "options.autofish.break_protection.title": "啟用斷裂保護",
+  "options.autofish.break_protection.tooltip_0": "在釣魚竿斷裂之前",
+  "options.autofish.break_protection.tooltip_1": "停止使用耐久低的釣魚竿",
+
+  "options.autofish.open_water_detection.title": "啟用開放水域檢測",
+  "options.autofish.open_water_detection.tooltip_0" : "在遊戲版本20w12a(1.16)以上，",
+  "options.autofish.open_water_detection.tooltip_1" : "只有在開放水域才能獲得寶藏戰利品。",
+  "options.autofish.open_water_detection.tooltip_2" : "啟用該選項后，當您未在開放水域釣魚時將提醒您。",
+
+  "options.autofish.persistent.title": "啟用持續模式",
+  "options.autofish.persistent.tooltip_0": "使其始終保持魚鉤為投擲狀態",
+  "options.autofish.persistent.tooltip_1": "每當釣魚竿在手上時",
+  "options.autofish.persistent.tooltip_2": "將每10秒檢查一次",
+  "options.autofish.persistent.tooltip_3": "並在需要時重新投擲",
+  "options.autofish.persistent.tooltip_4": "這對於滯後問題或",
+  "options.autofish.persistent.tooltip_5": "長時間釣魚非常有用",
+
+  "options.autofish.sound.title": "使用聲音檢測",
+  "options.autofish.sound.tooltip_0": "\u00A76基於浮標聲音的更新",
+  "options.autofish.sound.tooltip_1": "\u00A76他將更準確的檢測收桿時機",
+  "options.autofish.sound.tooltip_2": "\u00A76而不是簡單的浮標移動檢測",
+  "options.autofish.sound.tooltip_3": "- 你必須離鉤子很近",
+  "options.autofish.sound.tooltip_4": "  才能讓它正常工作.",
+  "options.autofish.sound.tooltip_5": "- 如果其他玩家的鉤子靠近你的鉤子",
+  "options.autofish.sound.tooltip_6": "  它可能會錯誤地觸發一次收桿!",
+  "options.autofish.sound.tooltip_7": "\u00A7c注意: 這個選項隻影響多人遊戲",
+  "options.autofish.sound.tooltip_8": "\u00A7c單人遊戲使用已有的檢測事件",
+  "options.autofish.sound.tooltip_9": "\u00A7c可開啟「多人遊戲檢測」使用",
+
+  "options.autofish.multiplayer_compat.title": "多人遊戲檢測",
+  "options.autofish.multiplayer_compat.tooltip_0": "強制玩家在單人遊戲中",
+  "options.autofish.multiplayer_compat.tooltip_1": "使用多人遊戲的檢測模式.",
+  "options.autofish.multiplayer_compat.tooltip_2": "保證第三方MOD的相容性",
+
+  "options.autofish.recast_delay.title": "重新投擲延遲",
+  "options.autofish.recast_delay.value": "%d 毫秒(ms)",
+  "options.autofish.recast_delay.tooltip_0": "調整收桿和重新投擲釣魚竿之間的延遲",
+  "options.autofish.recast_delay.tooltip_1": "以毫秒 (ms) 為單位.",
+
+  "options.autofish.random_delay.title": "隨機重新投擲延遲",
+  "options.autofish.random_delay.value": "百分之 %d",
+  "options.autofish.random_delay.tooltip_0": "為投擲釣魚竿的延遲新增 ±% 的變化量",
+  "options.autofish.random_delay.tooltip_1": "例如: 當預設延遲為1500ms時將該選項設定為20%，",
+  "options.autofish.random_delay.tooltip_2": "會使重新投擲延遲落在1200-1800ms區間內 (1500ms ±20%).",
+  "options.autofish.random_delay.tooltip_3": "將該選項設定為0以禁用此功能",
+
+  "options.autofish.clear_regex.title": "啟用持續模式",
+  "options.autofish.clear_regex.tooltip_0": "使用聊天欄正規表示式",
+  "options.autofish.clear_regex.tooltip_1": "來觸發重新投擲釣魚竿.",
+  "options.autofish.clear_regex.tooltip_2": "\u00A76可設定 \u00A7a正規表示式\u00A76.",
+
+  "options.autofish.basic.title": "基本選項",
+  "options.autofish.advanced.title": "高級選項",
+
+  "info.autofish.open_water_detection.fail": "§c[自動釣魚] 您目前釣魚的區域不是開放水域，無法獲得寶藏!§0",
+  "info.autofish.open_water_detection.success": "§2[自動釣魚] 您目前釣魚的區域是開放水域!§0"
+
+}
